@@ -1,9 +1,9 @@
 <h1 align="center">Bike Sharing Analysis</h1>
 
-##Overview
+## Overview
 The purpose of this analysis is to visualize data to convince potential investors that the bike rental is a viable business idea, supported with detailed data. 
 
-##Results
+## Results
 
 1. Checkout Times for Users
 
@@ -46,7 +46,7 @@ This chart came from the module. It shows the starting location that has most of
 
 This chart came from the module. It shows the usage of bikes by hour. The information can guide the management company in deciding maintenance  time, which seems to be most convenient between 3:00am-4:00am.
 
-##Summary:
+## Summary:
 
 In Summary, the analysis shows that the bike sharing project should focus on male subscribers who tend to use the bikes during rush hours on weekdays and off-peak hours during weekends. Most people use the bikes for less than 30 mins. It also shows what locations are most used and provide support on what hours are most suitable for doing maintenance .
 Additional two visualizations that I would perform with the given datasets are:
