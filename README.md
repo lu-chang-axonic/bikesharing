@@ -2,6 +2,7 @@
 
 ## Overview
 The purpose of this analysis is to visualize data to convince potential investors that the bike rental is a viable business idea, supported with detailed data. 
+[link to dashboard](https://public.tableau.com/profile/lu.chang5990#!/vizhome/NYC_Citibike_Challenge_Lu_Chang/BikeProjectStory)
 
 ## Results
 
